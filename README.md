@@ -1,6 +1,6 @@
 ```bash
 source <(curl -s
-        https://raw.githubusercontent.com/jperichon/dotFiles/master/install)
+        https://raw.githubusercontent.com/gbxl/dotFiles/master/install)
 ```
 
 Things I havent't automated:

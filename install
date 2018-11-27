@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-git clone https://github.com/jperichon/dotFiles.git
+git clone https://github.com/gbxl/dotFiles.git
 cd dotFiles
 rake install

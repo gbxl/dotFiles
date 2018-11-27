@@ -69,6 +69,5 @@ export PATH="/usr/local/heroku/bin:$PATH"
 export GOPATH=~/go
 export GOROOT=/usr/local/opt/go/libexec
 export GOBIN=$GOPATH/bin
-export GO15VENDOREXPERIMENT=1
 export PATH=$PATH:$GOBIN
 export HIST_IGNORE_SPACE=1

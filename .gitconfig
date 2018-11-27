@@ -1,6 +1,6 @@
 [user]
-    name = Jonathan Perichon
-    email = jperichon@gmail.com
+    name = Lucas Gerbeaux
+    email = lucas.gerbeaux@gmail.com
 
 [credential]
 	helper = osxkeychain
@@ -10,7 +10,7 @@
     pager = vimpager
     autocrlf = input
     safecrlf = true
-    excludesfile = /Users/jperichon/.gitignore_global
+    excludesfile = /Users/gbxl/.gitignore_global
 
 [color]
     branch = auto
@@ -50,7 +50,7 @@
     hist = log --pretty=format:'[%h] %an %cr: %s'
     summary = log --pretty=format:'[%h] %an %ar: %s' --stat
     changelog = log --pretty=format:' * %s'
-    standup = log --since yesterday --author jperichon
+    standup = log --since yesterday --author gbxl
     purr = pull --rebase
     ready = rebase -i @{u}
     d = difftool
@@ -67,5 +67,3 @@
 
 [branch]
     autosetupmerge = always
-; [commit]
-; 	gpgsign = true
