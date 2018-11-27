@@ -3,6 +3,7 @@ tap 'caskroom/cask'
 brew "ag"
 brew "autojump"
 brew "chruby"
+brew "elixir"
 brew "git"
 brew "jsonpp"
 brew "libgit2"
