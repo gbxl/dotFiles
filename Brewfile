@@ -22,7 +22,6 @@ brew "vimpager"
 brew "wget"
 brew "zsh"
 
-cask "alfred"
 cask "appcleaner"
 cask "atom"
 cask "dbeaver-community"
@@ -38,5 +37,3 @@ cask "onyx"
 cask "slack"
 cask "spotify"
 cask "the-unarchiver"
-
-mas "Things", id: 904280696
